@@ -1,0 +1,25 @@
+.box{
+    list-style-type:none;
+    text-align: center;
+    
+}
+.harsha{
+    margin-left:50%;
+}
+.list-elements{
+    list-style-type:decimal ;
+   
+}
+li{
+   font-size: 21px; 
+   height:50px;
+   width:50px;
+   border-radius:100%;
+   display: inline-block;
+   border: 1px solid;
+   padding: 10px;
+   margin:10px;
+   background-color: aqua; 
+   
+  
+}
